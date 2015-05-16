@@ -1,0 +1,23 @@
+{
+  "name": "js202-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "iojs": "1.8.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "5.1.13",
+    "koa": "0.19.1",
+    "koa-body": "1.2.1",
+    "koa-cors": "0.0.14",
+    "koa-logger": "1.2.2",
+    "koa-router": "4.3.2",
+    "mongoose": "4.0.2"
+  }
+}
